@@ -15,8 +15,8 @@ Sou **Larissa Rocha Gonçalves**, estudante de **Matemática Aplicada e Computa�
 
 ### Outros 
 
-*MATLAB
-*Látex
+* MATLAB
+* Látex
 
 
 ## 📫 Contato
