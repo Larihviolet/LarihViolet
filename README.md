@@ -1,17 +1,22 @@
 # Olá! 👋
 
-Sou **Larissa Rocha Gonçalves**, estudante de **Matemática Aplicada e Computação Científica no ICMC-USP**, com foco em **Modelagem Matemática, Ciência de Dados e pesquisa**.
+Sou **Larissa Rocha Gonçalves**, estudante de **Matemática Aplicada e Computação Científica no ICMC-USP**, com foco em **Modelagem Matemática, Ciência de Dados e pesquisa**. 
 
 ### Linguagens
-
 * C
 * C++
 * Python
 * Java
 
+### Desenvolvimento Web
+* HTML
+* CSS
+* Javascript
+
 ### Outros 
 
 *MATLAB
+*Látex
 
 
 ## 📫 Contato
